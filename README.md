@@ -1,25 +1,37 @@
 # Gestion des Tickets avec Tkinter
 
-Une simple application de gestion de tickets réalisée en utilisant Tkinter, une bibliothèque d'interface graphique pour Python.
+Bienvenue dans l'application de gestion de tickets ! Cette simple application, réalisée en utilisant Tkinter, offre une interface conviviale pour gérer vos tickets de manière efficace.
 
 ## Fonctionnalités
 
-- Ajouter des tickets à la liste en cours.
-- Déplacer des tickets de la liste en cours à la liste utilisée.
-- Supprimer des tickets de la liste en cours.
-- Rechercher un ticket spécifique.
+- **Ajout de Tickets**: Ajoutez facilement des tickets à la liste en cours en cliquant sur le bouton "Ajouter Ticket".
 
-## Utilisation
+- **Déplacement de Tickets**: Déplacez les tickets de la liste en cours à la liste utilisée avec un simple clic sur le bouton "Déplacer".
 
-1. **Ajouter un ticket**: Cliquez sur le bouton "Ajouter Ticket" et entrez le numéro du nouveau ticket dans la boîte de dialogue.
+- **Suppression de Tickets**: Supprimez les tickets indésirables de la liste en cours en utilisant le bouton "Supprimer Ticket".
 
-2. **Déplacer un ticket**: Sélectionnez un ticket dans la liste en cours et cliquez sur le bouton "Déplacer" pour le déplacer vers la liste utilisée.
+- **Recherche de Tickets**: Trouvez rapidement l'emplacement d'un ticket spécifique en utilisant la fonction de recherche.
 
-3. **Supprimer un ticket**: Sélectionnez un ticket dans la liste en cours et cliquez sur le bouton "Supprimer Ticket" pour le retirer de la liste.
+## Comment Utiliser l'Application
 
-4. **Rechercher un ticket**: Utilisez le bouton "Rechercher" pour trouver l'emplacement d'un ticket spécifique en entrant son numéro.
+1. **Ajouter un Ticket**:
+   - Cliquez sur le bouton "Ajouter Ticket".
+   - Entrez le numéro du nouveau ticket dans la boîte de dialogue.
+
+2. **Déplacer un Ticket**:
+   - Sélectionnez un ticket dans la liste en cours.
+   - Cliquez sur le bouton "Déplacer" pour le transférer vers la liste utilisée.
+
+3. **Supprimer un Ticket**:
+   - Sélectionnez un ticket dans la liste en cours.
+   - Cliquez sur le bouton "Supprimer Ticket" pour le retirer de la liste.
+
+4. **Rechercher un Ticket**:
+   - Utilisez le bouton "Rechercher".
+   - Entrez le numéro du ticket à rechercher.
 
 ## Captures d'écran
+
 **Application**
 <img src="media/appticket.png" width="200">
 
@@ -28,3 +40,8 @@ Une simple application de gestion de tickets réalisée en utilisant Tkinter, un
 
 **Rechercher**
 <img src="media/search.png" width="300">
+
+##
+  Profitez de la gestion simplifiée de vos tickets avec cette application conviviale ! N'hésitez pas à contribuer ou signaler des problèmes.
+
+---
