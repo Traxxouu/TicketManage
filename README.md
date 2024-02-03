@@ -20,4 +20,11 @@ Une simple application de gestion de tickets réalisée en utilisant Tkinter, un
 4. **Rechercher un ticket**: Utilisez le bouton "Rechercher" pour trouver l'emplacement d'un ticket spécifique en entrant son numéro.
 
 ## Captures d'écran
+**Application**
+<img src="media/appticket.png" width="200">
 
+**Ajouter**
+<img src="media/add.png" width="300">
+
+**Rechercher**
+<img src="media/search.png" width="300">
