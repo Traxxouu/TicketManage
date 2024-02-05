@@ -45,3 +45,6 @@ Bienvenue dans l'application de gestion de tickets ! Cette simple application, r
   Profitez de la gestion simplifiée de vos tickets avec cette application conviviale ! N'hésitez pas à contribuer ou signaler des problèmes.
 
 ---
+
+## Voici mon compte PayPal pour rembourser les heures de sommeil perdues.👋
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/frtrax?country.x=FR&locale.x=fr_FR) 
