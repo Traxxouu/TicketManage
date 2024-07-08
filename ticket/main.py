@@ -9,7 +9,7 @@ class TicketManager:
         self.tickets_en_cours = []
         self.tickets_utilises = []
 
-        
+        #ouverture des données
         self.charger_donnees()
 
         # interface utilisateur
